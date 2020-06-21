@@ -1,0 +1,2 @@
+C:\Users\Михаил\source\repos\compiler-lab1\Debug\compiler-lab1.exe
+C:\Users\Михаил\source\repos\compiler-lab1\Debug\compiler-lab1.pdb
